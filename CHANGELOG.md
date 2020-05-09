@@ -2,7 +2,20 @@
 
 - [Changelog](#changelog)
   - [1.0.0: Initial Release](#100-initial-release)
+  - [1.0.1: Broken Link Update](#101-broken-link-update)
 
+## 1.0.1: Broken Link Update
+
+**Released at**: `9.05.2020`
+
+**Info**:
+
+Reupload due to Majestic Mountains Updating
+
+**Changed**
+- Updated Majestic Mountains to 3.1
+- Updated SSE Display Tweaks to 3.13
+- Added Supreme Dwarven Spheres 
 
 ## 1.0.0: Initial Release
 
