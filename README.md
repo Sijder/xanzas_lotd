@@ -25,8 +25,6 @@
   - [Vampire Facial Reclamation](#vampire-facial-reclamation)
   - [Skyrim Reputation](#skyrim-reputation)
   - [Animation Mods](#animation-mods)
-- [In-Game MCM Options](#in-game-mcm-options)
-  - [Follower Framework](#follower-framework)
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
 - [Tweaking Performance](#tweaking-performance)
@@ -93,7 +91,7 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release of Elder Souls from [the release tab](https://github.com/jdsmith2816/eldersouls/releases).
+Let's get to the actual installation. Grab the latest release of Xanza's LOTD from [the release tab](https://github.com/ixanza/xanzas_lotd/releases).
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
@@ -135,7 +133,7 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 #### Setting up NVIDIA Profile Inspector (NVIDIA GPUs Only)
 
-Navigate to Xanza's LOTD/tools/NVIDIA Profile Inspector. Load up nvidiaProfileInspector.exe and use the search bar and navigate to The Elder Scrolls V: Skyrim Special Edition. In the new window, in the toolbar at the top is an icon of a box with a green arrow pointing downwards. Click on this button, then "Import Profiles" in the drop-down that appears.
+Navigate to `MO2/tools/NVIDIA Profile Inspector`. Load up nvidiaProfileInspector.exe and use the search bar and navigate to The Elder Scrolls V: Skyrim Special Edition. In the new window, in the toolbar at the top is an icon of a box with a green arrow pointing downwards. Click on this button, then "Import Profiles" in the drop-down that appears.
 
 In the window that appears, navigate to and select Skyrim SE Nvidia Inspector Profile.nip. The profile is now installed and you can close the program.
 
@@ -195,14 +193,341 @@ Currently the list comes with 3 additional animation mods
 
 ## In-Game MCM Options
 
-Everything not listed below is already configured for you. Feel free to peruse the settings and change them as you like.
+### A Matter of Time
+- Presets :
+  - Load user settings
+### All Geared up Deriv.
+- Misc - Player :
+  - Enable Misc Item Display : Disabled
+- NPC :
+  - Enable Weapons : Enabled
+  - Enable Misc Item Display : Disabled
+
+### Cathedral Weather
+- Settings → General :
+  - Configuration Spell: Disabled
+- Settings → Weather :
+  - Seasonal Perspective: Enabled
+
+### Complete Alchemy
+
+- Cooking → Water :
+  - Craft Water - Disabled
+  - Get Water from Wells : Disabled
+- Basic Needs → Hunger & Fatigue :
+  - Enable Hunger Penalties - Disabled
+  - Notification Messages: 1ST PERSON
+- Help → Troubleshooting : 
+  - Ragdoll Paralysis - Disabled
+
+### Complete Crafting
+- Recipe Display → Crafting Menu Filters :
+  - Crafting Categories: Disabled
+  - Item Filters: Disabled
+  - Breakdown Recipes: Enabled
+-Crafting Options → Additional Items: :
+  -Artifact Replicas: Enabled
+  -Matching Circlets: Enabled
+-Learning & XP → Smithing Experience:
+    - Tanning Rack:0.1
+    - Smelter:0.2
+    - Mining 20
+-Learning & XP → Learn to Craft :
+  - Learning Points required to Craft: 250
+- Mining  and Materials→ Mining :
+  - Mining Presets:  FASTER MINING
+- Mining  and Materials→ Firewood :
+  - Firewood per chop:6
+  - Max per activation: 1
+
+### Deadly Dragons
+- Dragons → Presets :
+  - Difficulty: Expert
+- Dragons → Special :
+  - Knockdown: Disabled
+
+### Diverse Dragons Col. 3
+- Dragons
+  - Nether Dragon: Disabled
+  - Sanguine Dragon: Disabled
+  - Vile Dragon: Disabled
+
+### Easy Wheel
+- General → Mode selection :
+  - Use Swap mode: Enabled
+  - Show: M5 (Or whatever hotkey you like)
+  - Next: Arrow Right Key (Or whatever hotkey you like)
+  - Previous: Arrow Left Key (Or whatever hotkey you like)
+- Available Functions → Loaded Mods :
+  - Heathfire Multi Kid Adoption: Hidden
+  - Dovahkiin's Relax: Hidden
+  - Simple Action: Hidden
+- Configuration → Wheel Layout :
+  - Current Wheel:2
+  - 1: Horses Whistle
+  - 2: Horse Call
+  - 3: Pray
+    
+### ESF: Companions
+- Requirements → Requirements Before Your Trial :
+  - Player Level: 30
+- Requirements → Requirements Before Joining The Circle :
+  - Player Level: 40
+- Requirements → Requirements Before Kodlak's Request :
+  - Player Level: 60
+
+### Expanded Towns
+- Settings → Fortification Wall :
+  - Dawnstar: Disabled
+  - Falkreath: Disabled
+  - Morthal: Disabled
+  - Winterhold: Disabled
+
+### Farmhouse Chimneys
+- Mod Support → Arthmoor Village Options :
+  - Darkwater Crossing: Enabled
+  - Dawnstar: Enabled
+  - Dragon Bridge: Enabled
+  - Falkreath: Disabled
+  - Ivarstead: Enabled
+  - Karthwasten: Enabled
+  - Keld-Nar: Enabled
+  - Kynesgrove: Enabled
+  - Rorikstead: Enabled
+  - Shor's Stone: Enabled
+  - Soljund's Sinkhole: Enabled
+  - Whistling Mine: Enabled
+- Mod Support → New Villages :
+  - Helarchen Creek: Enabled
+  - Oakwood: Enabled
+- Mod Support → Misc Mods :
+  - Cutting Room Floor: Enabled
+- Mod Support → Mod Compatibility :
+  - Expanded Towns and Cities: Enabled
 
 ### Follower Framework
+ - System → Save/Load Configuration : 
+  - Load from File : Click
 
-- System
-  - Load from File
-  - Hotkeyed Abilities
-    - Customize as you wish
+### Frostfall
+Note DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.
+
+- Overview → Frostfall Status :
+  - Frostfall Is: Enabled (This will require you to exit and reload the MCM)
+- Profiles → Settings Profiles :
+  - Current Profile : Lexy LOTD Profile
+
+### GIST Soul Trap
+- Main → Notifications :
+  - Show message on soul lost: Disabled
+  - Show message on soul shrunk: Disabled
+  - Show message on soul displaced: Disabled
+  - Show message on soul trapped: Enabled
+- Main → Leveling : 
+  - Enable leveling system: Enabled
+  - Skill: Enchanting
+
+### Immersive Armors
+- Armor Options → Distribution : 
+  - Barbarian Hero Armor: Disabled
+
+- Extra Options → Special Distribution Options :
+  - Varied Guard Helmets : Disabled
+
+### Immersive Creatures
+- General → General : 
+  - Select Version Preset: Purist - No Spiders
+- Creature Toggles → Creatures :
+  - Goblin : Disabled
+- Additional Spawns → Spawn Types
+  - Animals Spawns: Disabled
+  - Ore Guardian Spawns: Disabled
+- Night Spawns → Spawn Time : 
+  - Start: 19 PM
+  - End: 6 AM
+- Random Event Spawns : 
+  - Random Event Spawns : Deactivated
+- Difficulty Adjustments → Global Difficulty : 
+  - Assign Global Difficulty: Adept
+- Difficulty Adjustments → Creature Spawn Difficulty : 
+  - Additional Spawns: Medium
+  
+### Immersive HUD
+- Activation → Compass Activation :
+  - Key press toggles: Enabled
+- Options :
+  - Enable fast fade of magicka: Enabled
+  - Enable fast fade of stamina: Enabled
+
+### iWant RND Widgets
+Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
+- Preset Load → Preset : 
+  - DarkLadyLexy's LOTD Guide
+
+### Keep It Clean
+- Settings → Parameters :
+  - Soap Buff Duration : 9
+  - Duration before becoming Dirty : 48
+  - Duration before becoming Very Dirty : 72
+- Settings → Toggles :
+  - Start Keep It Clean: Enabled
+
+### LOTD Relic Notifications
+- Notification Display Setting :
+  - Show Basic Notifications : Enabled
+
+### Legacy of The Dragonborn
+- LOTD Settings → Shippment Crate Locations : 
+  - Carriages: Enabled
+  - Inns: Enabled
+  - Player Houses: Enabled
+
+### Lock Overhaul
+- General : 
+  - Activate Lock Overhaul: Enabled (This will require you to exit and reload the MCM)
+- General → General Settings : 
+  - Allow increasing skill: Enabled
+  - Enable the sound effect: Enabled
+  - Enable Crime: Enabled
+- Smash Locks → Smash Locks : 
+  - Activate Smash Locks: Enabled
+  - Allow Weapons: Two + One Handed
+- Unlock with Magic → Unlock Spell :
+  - Enable Unlock Spell: Enabled
+  - Frost effect Required Skill malus: -0
+
+### Moonlight Tales
+- General : 
+  - Transform Back Stagger: Disabled
+  - Werewolf Loot: Disabled
+- Appearance : 
+  - Werewolf Appearance: Alpha (Black with Red Eyes)
+
+### moreHUD
+- Presets → Save setting with FISS :
+  - Load User Settings? : GO
+  
+### Not So Fast MG
+- Minimum Days Before Event : 
+  - Saarthal Expedition: 3
+  - Psijic Monk Visit: 7
+  - Brelyna's Practice: 4
+  - J'Zargo's Experiment: 4
+  - Onmund's Request: 4
+
+### Not So Fast MQ
+- Minimum Days Before Events :
+  - First Dragon Sighting: 3
+  - Note From Delphine: 6
+- Other :
+  - No Negotiations: Enabled
+
+### OBIS - Patrols
+- Settings → Bandit Patrols :
+  - Enable?: Enabled
+- Settings → Difficulty :
+  - How Tough?: Toughest
+
+### Predator Vision
+- Predator Vision → Keys :
+  - Nightvision activation key: V
+  - Predator vision activation key: H
+- Predator Vision → Settings :
+  - Nightvision Color: 30%
+  - Predator Vision Color Boost: 70%
+-Predator Vision → Activation sounds :
+  - Nightvision: Sound 2
+-Predator Vision → options : 
+  - Werewolves get Predator Vision as humans: Enabled
+
+### Quick Light
+- Quick Light → Brightness :
+  - Brightness - Bright
+
+### Realistic Needs
+- Basic Needs → Start RND
+
+### Realistic Water Two
+- Mod Options → Blacksmith Forge Water :
+  - The Fall of Granite Hill: Enabled
+  - Kynesgrove: Enabled
+  - Rorikstead: Enabled
+  - Expanded Towns and Cities SSE: Enabled
+
+### SkyUI
+- General → Item List :
+  - Font Size: Small
+  - Category Icon Theme: CELTIC
+- Advanced → SWF Version Checking : 
+  - Map Menu: Disabled
+  - Favorites Menu: Disabled
+  - Inventory Menu: Disabled
+  - Barter Menu: Disabled
+  - Container Menu: Disabled
+  - Crafting Menu: Disabled
+
+### Skyrim’s Unique Treasures
+- SUT Configuration → Configuration Options : 
+  - Immersive Ownership: Enabled
+  - Lore friendly items only: Enabled
+
+### Storm Lightning
+- Preset → Load Preset : 
+  - Realistic: Enabled
+- Settings → Fork Lightning : 
+  - Minimum Fork Distance: 1
+- Advanced → Compatibility Mode : 
+  - Compatibility Mode: Enabled
+### Timing is Everything
+NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick
+- Extra Options → Presets : 
+  - Load Preset
+
+### Thieves Guild Requirements
+NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick
+- Misc Options → User Presets : 
+  - Load Preset
+  
+### Trade and Barter
+- Trade & Barter → Settings :
+  - Modify Barter Setting: Enabled
+Trade & Barter → Preset : 
+- Barter Rate: Medium
+
+### Ultimate Combat
+- General → Timed Block : 
+  - Effective Time: 0.00s
+  - Blur Strength: 0.0s
+- General → Game Balance Settings : 
+  - Hardcore Damage: Disabled
+  - Hardcore Stealth: Disabled
+  - Speed Bonus: Disabled
+  - Player Killmove Immunity: Enabled
+- General → Stagger : 
+  - Enemy Pose: Disabled
+  - Player Stagger: Disabled
+  - NPC's Bow Poise: 0.00s
+  - Player Bow Poise: 0.00s
+- General → Locational : 
+  - Headshot Damage Mult: 0.0
+  - Headshot Message: Disabled
+  - Locational Damage Sound: Disabled
+  - Locational Damage Effect: Disabled
+- NPC Settings → Giant : 
+  - Max HP Scale: Max HP 1.0
+- NPC Settings → Dwarven Centurion : 
+  - HP Mult: HP 1.0
+- NPC Settings → Dragon Priest : 
+  - HP Mult: HP 1.0
+### VioLens
+- Profile System → Menu Settings : 
+  - Load : LEXY LOTD VIOLENS
+  
+### Wildcat Combat
+- Wildcat → Injuries : 
+  - Disabled Injuries: Enabled
+Wildcat → Difficulty : 
+- Allow Wildcat to Manage Difficulty: Enabled
 
 ## Creating your Character
 
@@ -210,39 +535,12 @@ Simply step up to the statue of mara and choose a start.
 
 ## FAQ
 
-- My character is stuck dodging
-
-  - This happens occasionally on load but rarely in gameplay. Press 'G' to fix it.
-
-- I'm a 21:9 resolution user and my screen looks weird
-  - Search 21x9 in mod organizer and activate all of those mods. Do this before creating your character or you'll need to do alot of configuration to get the UI looking right!!
-
-## Tweaking Performance
-
-My Setup:
-
-- Ryzen 1700 running at 3GHz
-- 1080ti
-- 32GB DDR4-3200 RAM (CL 14)
-- Game and MO2 running on a Samsung 850 EVO SSD
-
-### Tweaking the ENB
-
-This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Ominous](#enb-ominous)) is rather performance intensive. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
-
-- `Bloom`: Can give you up to 3 FPS, will make light sources less bright
-- `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
-- `Ambient Occlusion`: This one is a big hitter. You can get up to 20 FPS by disabling this but the effect is very noticeable
-- `Distant/DetailedShadow`: Those two can really give you a lot of FPS back depending on your shader settings (game settings). They are very noticeable.
-- `ComplexFire/ParticleLights`: You won't see a lot of difference at first when disabling those two, but when particles are on screen (eg using magic or near light sources such as fires), they can _burn_ through your FPS
-
 ### Tweaking the Game Settings
 
 I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
 
 - `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO.
-- `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
+- `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
 ## Removing the Modlist
@@ -252,11 +550,9 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- The Phoenix Flavor by Phoenix - General ideas and awesomesauce derived therefrom
-- Lotus by erri120 - Repository template and NPC visuals
-- Total - Being a really helpful guy.
+- Darkladylexy and her team - for creating this incredible guide and allowing me to create this fork
+- erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- KentuckyFriedCrusade - Thanks for the great work on the main menu and dark mode ui!!
 
 ## Contact
 
