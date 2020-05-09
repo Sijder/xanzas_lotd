@@ -311,7 +311,7 @@ Currently the list comes with 3 additional animation mods
   - Load from File : Click
 
 ### Frostfall
-Note DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.
+**Note DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
 
 - Overview → Frostfall Status :
   - Frostfall Is: Enabled (This will require you to exit and reload the MCM)
@@ -435,9 +435,9 @@ Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
   - Predator vision activation key: H
 - Predator Vision → Settings :
   - Nightvision Color: 30%
-  - Predator Vision Color Boost: 70%
+  - Predator Vision Color Boost: 70% 
 -Predator Vision → Activation sounds :
-  - Nightvision: Sound 2
+  - Nightvision: Sound 2 
 -Predator Vision → options : 
   - Werewolves get Predator Vision as humans: Enabled
 
@@ -480,12 +480,12 @@ Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
 - Advanced → Compatibility Mode : 
   - Compatibility Mode: Enabled
 ### Timing is Everything
-NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick
+**NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick**
 - Extra Options → Presets : 
   - Load Preset
 
 ### Thieves Guild Requirements
-NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick
+**NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick**
 - Misc Options → User Presets : 
   - Load Preset
   
