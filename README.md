@@ -25,6 +25,7 @@
   - [Vampire Facial Reclamation](#vampire-facial-reclamation)
   - [Skyrim Reputation](#skyrim-reputation)
   - [Animation Mods](#animation-mods)
+- [In Game MCM Options](#in-game-mcm-options)
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
 - [Tweaking Performance](#tweaking-performance)
