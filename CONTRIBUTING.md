@@ -7,7 +7,6 @@ There are many ways that you can contribute to this modlist. Pick one of the par
     - [Feature Requests](#feature-requests)
     - [Issues](#issues)
     - [CharGen Presets](#chargen-presets)
-  - [Documentation](#documentation)
 
 ## Modlist
 
