@@ -20,7 +20,7 @@
 - [Updating](#updating)
 - [Additional Mods](#additional-mods)
   - [Wintersun](#wintersun)
-  - [AllGUD](#allgud)
+  - [AllGUD](#all-geared-up-derivative-allgud)
   - [Artesian Cloaks of Skyrim](#hdt-cloaks)
   - [Vampire Facial Reclamation](#vampire-face)
   - [Skyrim Reputation](#skyrim-reputation)
