@@ -32,5 +32,5 @@ This is the initial release of Xanza's LOTD Based on Lexy's LOTD `7.5.2020` upda
   - AllGUD
   - Sovngarde - Mist's Font Replacer Light
   
-  **Removal**:
-  - Sovngarde - Mist's Font Replacer Bold
+**Removal**:
+ - Sovngarde - Mist's Font Replacer Bold
