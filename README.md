@@ -1,6 +1,6 @@
-# Elder Souls
+# Xanza's LOTD
 
-- [Elder Souls](#elder-souls)
+- [Xanza's LOTD](#xanzas-lotd)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
@@ -18,21 +18,13 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
 - [Updating](#updating)
-- [Noteworthy Mods](#noteworthy-mods)
-  - [Elder Souls - Death](#elder-souls---death)
-  - [Camera](#camera)
-  - [Combat - Melee](#combat---melee)
-  - [Combat - Archery](#combat---archery)
-  - [Combat - Magic](#combat---magic)
-  - [Skills, Perks and More](#skills-perks-and-more)
-  - [Quest and Encounter Mods](#quest-and-encounter-mods)
-  - [Monster Mods](#monster-mods)
-  - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
-  - [NPC Retextures](#npc-retextures)
-  - [Followers](#followers)
-  - [Audio and Weather](#audio-and-weather)
-  - [New Equippables](#new-equippables)
-  - [ENB: Ominous](#enb-ominous)
+- [Additional Mods](#additional-mods)
+  - [Wintersun](#wintersun)
+  - [AllGUD](#allgud)
+  - [Artesian Cloaks of Skyrim](#hdt-cloaks)
+  - [Vampire Facial Reclamation](#vampire-face)
+  - [Skyrim Reputation](#skyrim-reputation)
+  - [Animation Mods](#animation-mods)
 - [In-Game MCM Options](#in-game-mcm-options)
   - [Follower Framework](#follower-framework)
 - [Creating your Character](#creating-your-character)
@@ -48,15 +40,9 @@
 
 # Preamble
 
-![elder-souls-banner](extra/elder-souls.png)
+![xanzas-lotd-banner](extra/elder-souls.png)
 
-Elder Souls is an attempt to bring some Soulsborne flavor to Skyrim.
-
-You should expect challenging but fair combat, an awesome dark fantasy vibe and a plethora of new content.
-
-Among this new content you will find a variety of new hand placed monster types, atleast four player houses per hold and many new dungeons and quests.
-
-Leveling and death are modelled after the Dark Souls system but utilizing gold rather than souls. Sleep to raise skills and level up.
+This is a fork of Lexy's Legacy of the Dragonborn list with a few choice additions such as Wintersun and Skyrim Reputation. Under no circumstances should you be bothering her or her team with issues for this list.
 
 ## Installation
 
@@ -147,6 +133,12 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
 
+#### Setting up NVIDIA Profile Inspector (NVIDIA GPUs Only)
+
+Navigate to Xanza's LOTD/tools/NVIDIA Profile Inspector. Load up nvidiaProfileInspector.exe and use the search bar and navigate to The Elder Scrolls V: Skyrim Special Edition. In the new window, in the toolbar at the top is an icon of a box with a green arrow pointing downwards. Click on this button, then "Import Profiles" in the drop-down that appears.
+
+In the window that appears, navigate to and select Skyrim SE Nvidia Inspector Profile.nip. The profile is now installed and you can close the program.
+
 ## Updating
 
 If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
@@ -157,159 +149,49 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## Noteworthy Mods
+## Additional Mods
+These are additional mods I have added over the regular Lexy's install.
 
-### Elder Souls - Death
+### Wintersun
 
-This mod implements the Soulsborne-style leveling and death system into Skyrim. Gold is used as a substitute for Souls. When you sleep in a bed, you will be able to spend your current gold to level up your skills. You may also use training books to increase your skills. To level up, you must sleep in a bed.
+Wintersun adds religion and worship. Praying, worship at shrines and adhering to the tenets of your deity strengthens your bond with the deity and eventually grants divine powers. In addition to the divines and daedric princes, the mod adds many other deities from Elder Scrolls lore, each with their own shrines in the world.
 
-Additionally, upon sleeping in an owned or rented bed, that location will be marked as your current Respawn Point. On death, a Gravemarker will be spawned at your location containing all of your currently held gold, and you will be teleported to your most recent Respawn Point. If you die again, your previous Gravemarker will be replaced, and the original Gravemarker will be unobtainable.
+[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
 
-Your ability to save is limited as well. To save the game, you must sleep in a bed. When you activate a bed, you will be given an item called Elder Scroll - Break. This is a one-time consumable that will allow you to save once wherever you wish.
+### All Geared Up Derivative (ALLGUD)
 
-### Camera
+AllGUD is a mod that shows all your visible favorited gear as well as offer dual sheathe meshes. 
 
-This little section will go over some of the installed mods that effect the camera in a subtle or substantial way. They get their own section because it can feel very weird playing with them for the first time.
+[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/28833)
 
-[SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam) overhauls third person camera movement to make it feel more like a typical action adventure type camera. It's fully configurable via MCM; tweak it till things feel right.
+### Artesian Cloaks of Skyrim
 
-### Combat - Melee
+Artesian Cloaks of Skyrim adds HDT Physics to Cloaks of Skyrim and Winter is Coming. These new cloak meshes are also compatible with kryptopyr's Complete Crafting Overhaul Remastered.
 
-[Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) is a streamlined combat overhaul designed to enhance Skyrim’s difficulty and encourage active resource management. Unlike other combat overhauls, it does not seek to import mechanics from other games into Skyrim. Instead, it enhances the existing mechanics of Skyrim’s combat and focuses on tightening the gameplay to allow for more player skill and RPG-like character development.
+[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/17416)
 
-You should read this mod page.
+### Vampire Facial Reclamation
 
-### Combat - Archery
+To Reclaim your Pretty Human Face from the Ravages of Vampirism. No Sunken anything for Male or Female player as vampire.
 
-[Legendary Skyrim Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) adds in crossbows as a full crossbow weapon expansion to Skyrim. There are crossbows for each material type, artifact crossbows, faction crossbows and they have been added seamlessly into the whole of Skyrim. Enemies now have a chance of using crossbows and you will find them just like you would any other type of weapon.
+[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/13030?tab=files)
 
-### Combat - Magic
+### Skyrim Reputation
 
-[Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) completely overhauls and rebalances vanilla magic while adding in 200ish new spells to flesh things out a bit.
+Skyrim Reputation introduces a reputation mechanic to make you treated as the hero or villain you really are, without it interfering with your game-play. All functions of the mod can be toggled on/off in the MCM menu.
 
-[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711) provides a unique and build defining progression system for magic users. Additionally there are many new spells added by the various content mods ranging from summons to elemental based magic.
+[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/22374)
 
-### Skills, Perks and More
+### Animation Mods
 
-[Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds religion and worship.
+Currently the list comes with 3 additional animation mods
 
-I chose [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) for our perk overhaul since it pairs so very nicely with both Mysticism and Blade and Blunt by the same author.
+[Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667) - A complete revamped version of all other PCEA made from scratch. Nemesis PCEA's new design eliminates many bugs haunting other PCEA as well as greatly improves the performance. The day of Alternate Animation mods messing with your PCEA is over. 10 slots is not enough? Fear not, Nemesis PCEA supports up to 20 slots
 
-Werewolves are overhauled by [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) while [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) takes care of our bloody friends of the night.
+[Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761) - This mod has provide many of new weapon idle animations, and they are full set (including walk/run/turn). You can choose different style to replace the vanilla, Just try it and I wish you like it.
 
-[Aetherious](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a streamlined race overhaul designed to make races more meaningful without making them more restrictive.
+[Magic Casting Animation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215) - This Mod will Replace vanilla skyrim staff and unarmed magic casting animations with animations that are a lot less jank and look cool.
 
-[Shout](https://www.nexusmods.com/skyrimspecialedition/mods/12149) improves upon all shouts in Skyrim in a fair and balanced way by cutting down the cooldown timer effects, thus allowing the player to use a host of shouts in innovative, devastating combinations.
-
-[Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is a streamlined Standing Stone overhaul designed to ensure that every stone fills a niche and offers competitive bonuses to different playstyles.
-
-### Quest and Encounter Mods
-
-Elder Souls comes with a wide variety of new quest and encounters.
-
-[Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008) is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. Beyond Reach is a dark story of intrigue and conspiracies sown by both men and gods as well as the struggles of those in the most squalid of situations.
-
-[Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) allows you to travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power. There is no quest or hand holding and is heavily inspired by the Soulsborne games.
-
-[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) and [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) are an interconnected set of super mods that add a dark and awesome storyline with a ton of Soulsborne inspired content. Glenmoril is still in development but it's worth adding for the current content. Vigilant and Glenmoril creatures and items have been integrated into the rest of the game.
-
-[Forgotten Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/449) adds over sixty new radiant quest enabled dungeons with entirely new monsters to encounter. It has been updated to pull in additional monsters from the Elder Souls monster merge.
-
-[Hammet's Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/12186) and [Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) add another 60ish high quality dungeons and a landmass the size of solstheim to explore.
-
-[Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim.
-
-[Skyrim Sewers](https://www.nexusmods.com/skyrimspecialedition/mods/9320) adds an accessible sewer system to the towns of Solitude, Whiterun, Windhelm and Markarth and also small sewage tunnels to Fort Sungard and Greenwall. Don't let the name fool you as this is by far some of the best made dungeon content available for Skyrim.
-
-[Bleak Falls Barrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), [Embershard Mine - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34468), [Steepfall Burrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34594) and [Ustengrav - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33878) adds some new spice to the tired old dungeons that we've all done a hundred times. Enjoy!
-
-### Monster Mods
-
-I've included a variety of hand placed monster encounters from various people including mihail and opusglass. I mostly focused on dark fantasy, horror, soulsborne type content when possible. There are too many mods to list them all out here so just check the modlist itself. Monsters from this massive monster merge have been distributed all throughout the game including some of the mod added content like Forgotten Dungeons.
-
-[Sea of Spirits](https://www.nexusmods.com/skyrimspecialedition/mods/4781) turns the Sea of Ghosts (and the rest of the seas in Skyrim and Solstheim) into a lively Sea of Spirits by adding many new sea creatures, like whales, narwhals, sharks, dreugh, and many others. Snow whale has been removed.
-
-Draugr's have been given an overhaul via [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188), [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) and [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775)
-
-### Expanded Cities Towns and Villages
-
-Elder Souls comes with a massive merge of housing cities towns and villages that overhaul all of the population centers. The list is literally too long to go into in the readme so feel free to check the mod list. There are atleast four new player houses per hold ranging from small shacks to massive build your own settlements. The keys for these houses are all purchaseable, found at the end of quests or on enemy corpses. In addition to all of the housing every village town and city has been completely overhauled via a variety of mods.
-
-### NPC Retextures
-
-I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680), [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
-
-The Bijin lineup with [Bijin Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) and [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825) fills the gaps that Pandorable's mods leave.
-
-[The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) retextures some Men in Skyrim. I handpicked NPCs from [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376) and [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247). The rest is covered by [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) and [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789). [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) is the base for all elves.
-
-The priority looks like this (similar to MO2, the ones at the bottom overwrites the ones at the top):
-
-1. Ethereal Elven Overhaul
-2. Fresh Faces
-3. Diversity
-4. Kalilies NPCs
-5. The Ordinary Women
-6. The Men of Winter
-7. Bijin NPCs
-8. Bijin Warmaidens
-9. Bijin Wives
-10. Pandorable's NPCs
-11. Pandorable's NPCs - Dragonborn
-12. Pandorable's NPCs - Dawnguard
-13. Simple Children
-
-[Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) protects the modesty of our elders.
-
-### Followers
-
-[Daanik the Returned](https://www.nexusmods.com/skyrimspecialedition/mods/21728/) is a powerful lich boss that you can summon to fight for you assuming that you can defeat him in combat.
-
-[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
-
-[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
-
-[Song of the Green - Auri Follower](https://www.nexusmods.com/skyrimspecialedition/mods/11278) is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. Auri, a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
-
-[The Pale Lord](https://www.nexusmods.com/skyrimspecialedition/mods/21003) is a uniquely designed vampire follower with both a custom appearance featuring claws and a black textured outfit as well as scripted powers which include the ability to transform into a swarm of bats as well as being able to assume a monstrous War-form.
-
-In addition to the above custom followers all of the vanilla followers have been overhauled by [Special Edition Followers](https://www.nexusmods.com/skyrimspecialedition/mods/7622) to fill unique roles as combat companions.
-
-### Audio and Weather
-
-[Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for skyrim's ambiance and foley.
-
-[Soulmancer Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/22551) thoughtfully merges soundtracks of Celtic Music, Extra Music, Musical Lore, Hun Lovaas, Still, Melodies of Civilization, Vindsvept, Northern & Southern Diaries, Fanmade Nordic Music, Dreams and Nightmares, Elder Songs, Dawn of Hope, and JDR. Additional tracks from Enderal, Two Step's From Hell, Icewind Dale and Baldur's Gate series!
-
-[Dark Souls 3 Main Menu Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/23180) and [Dark Souls Sound Overhaul](https://www.loverslab.com/files/file/990-dark-souls-sound-overhaul/) replace the main menu background, main menu music and various UI sounds with those from Dark Souls.
-
-The full Enigma series minus Disciple of Molag Bal from [Satafinix](https://www.nexusmods.com/skyrimspecialedition/users/21706239?tab=user+files) is used to overhaul dragonic and daedric voices. While other odds and ends update draugr voices, skeleton sounds and the like.
-
-[Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125) provides sharp, ominous, and atmospheric weathers that accentuate proximal detail while obscuring distant landscapes with mysterious fogs.
-
-### New Equippables
-
-All of the Dark Souls weapons from [FunkyGandalfCat](https://www.nexusmods.com/skyrimspecialedition/users/31528195) have been added as well as those from the [Dark Souls 3 Weapon Pack](https://www.loverslab.com/files/file/6203-dark-souls-3-weapon-pack/) Currently the DS3 weapon pack is craft only but will eventually become loot hand placed in the various new dungeons.
-
-In addition to the above Glenmoril, Darkend, Unslaad and Vigilant add in many more Soulsborne flavored weapons, armor and jewelry.
-
-[Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/15394) adds nearly 100 new weapons to Skyrim. You will find all new Halberds, Spears, Glaives, Shortswords, Quarter staves, Mauls, Hatchets and Clubs. These weapons are fully integrated into the rest of the game.
-
-[Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/15394) adds halberds, rapiers, claws, pikes, quarterstaves and chain whips along with entirely new third and first person animations for each. These new animations have been extended to the relevant weapons from Heavy Armory and other content. All of these weapons have been fully integrated into the game.
-
-[Skyrim Weapon Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/32500) integrates over 100 high quality and balanced weapon variants into the vanilla game through crafting and leveled lists.
-
-[Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369), [Divine Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9304), [Daedric Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9530) and [Artesian Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17416) provide pretty physics enabled capes and integrates them into the world.
-
-[Legendary Skyrim Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) is a full crossbow expansion for Skyrim. There are crossbows for each material type, artifact crossbows, faction crossbows and they have been added seamlessly into the whole of Skyrim. Enemies will now have a chance of using crossbows and you will find them just like you would any other type of weapon.
-
-[Warmonger Armory](https://www.nexusmods.com/skyrimspecialedition/mods/17809) aims to add immersion to your Skyrim experience adding new lore friendly Armors, Weapons and Clothes for both Vanilla Game and DLCs. All the added content is inspired from the classic Elder Scrolls Archetypes and is made with compatibility in mind.
-
-[Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) is a combined and continued version of Common Clothes and Brigandage. It features 51 new armors and 80 new clothes, created by Franklin Zunge. The clothes are worn by the common people of Skyrim: Farmers, merchants, miners, patrons, workers and some of the wealthier citizens. They can also be bought at Radiant Raiment. The armors are worn by bandits. Since all new armors cover the whole body, half-naked bandits chilling in the cold climate of Skyrim are almost completely eliminated. The armors can be improved at a workbench, but they cannot be crafted or bought.
-
-### ENB: Ominous
-
-[Ominous](https://www.nexusmods.com/skyrimspecialedition/mods/27333) brings a grim feel to the world of Skyrim with its gloomy color palette, subtle lighting and dark skies.
 
 ## In-Game MCM Options
 
