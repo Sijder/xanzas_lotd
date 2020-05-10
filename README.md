@@ -17,6 +17,8 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Setting up NVIDIA Profile Inspector (NVIDIA GPUs Only)](#setting-up-nvidia-profile-inspector-nvidia-gpus-only)
+    - [Getting an ENB](#getting-an-enb)
 - [Updating](#updating)
 - [Additional Mods](#additional-mods)
   - [Wintersun](#wintersun)
