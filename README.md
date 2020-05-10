@@ -179,7 +179,7 @@ AllGUD is a mod that shows all your visible favorited gear as well as offer dual
 
 ### Artesian Cloaks of Skyrim
 
-Artesian Cloaks of Skyrim adds HDT Physics to Cloaks of Skyrim and Winter is Coming. These new cloak meshes are also compatible with kryptopyr's Complete Crafting Overhaul Remastered.
+Artesian Cloaks of Skyrim adds HDT Physics to Cloaks of Skyrim and Winter is Coming. 
 
 [More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/17416)
 
