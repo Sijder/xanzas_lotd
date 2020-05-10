@@ -223,14 +223,14 @@ Currently the list comes with 3 additional animation mods
   - Crafting Categories: Disabled
   - Item Filters: Disabled
   - Breakdown Recipes: Enabled   
--Crafting Options → Additional Items: :
+- Crafting Options → Additional Items: :
   -Artifact Replicas: Enabled
   -Matching Circlets: Enabled
--Learning & XP → Smithing Experience:
+- Learning & XP → Smithing Experience:
     - Tanning Rack:0.1
     - Smelter:0.2
     - Mining 20
--Learning & XP → Learn to Craft :   
+- Learning & XP → Learn to Craft :   
   - Learning Points required to Craft: 250
 - Mining  and Materials→ Mining :
   - Mining Presets:  FASTER MINING
@@ -249,6 +249,7 @@ Currently the list comes with 3 additional animation mods
   - Nether Dragon: Disabled
   - Sanguine Dragon: Disabled
   - Vile Dragon: Disabled
+  
 **Note : Exit the MCM after this step to allow it to do its thing**
 
 ### Easy Wheel
