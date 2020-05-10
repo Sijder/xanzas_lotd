@@ -140,7 +140,7 @@ Navigate to `MO2/tools/NVIDIA Profile Inspector`. Load up nvidiaProfileInspector
 
 In the window that appears, navigate to and select Skyrim SE Nvidia Inspector Profile.nip. The profile is now installed and you can close the program.
 
-### Getting an ENB
+#### Getting an ENB
 
 This list uses Cathedral Weathers so you want to get an ENB that is compatible. Here is a list of compatible ENBs that I can recommend
 - [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
