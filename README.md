@@ -208,23 +208,23 @@ Currently the list comes with 3 additional animation mods
 
 ## In-Game MCM Options
 
-### A Matter of Time
+#### A Matter of Time
 - Presets :
   - Load user settings
-### All Geared up Deriv.
+#### All Geared up Deriv.
 - Misc - Player :
   - Enable Misc Item Display : Disabled
 - NPC :
   - Enable Weapons : Enabled
   - Enable Misc Item Display : Disabled
 
-### Cathedral Weather
+#### Cathedral Weather
 - Settings → General :
   - Configuration Spell: Disabled
 - Settings → Weather :
   - Seasonal Perspective: Enabled
 
-### Complete Alchemy
+#### Complete Alchemy
 
 - Cooking → Water :
   - Craft Water - Disabled
@@ -232,7 +232,7 @@ Currently the list comes with 3 additional animation mods
 - Help → Troubleshooting : 
   - Ragdoll Paralysis - Disabled
 
-### Complete Crafting
+#### Complete Crafting
 - Recipe Display → Crafting Menu Filters :
   - Crafting Categories: Disabled
   - Item Filters: Disabled
@@ -252,7 +252,7 @@ Currently the list comes with 3 additional animation mods
   - Firewood per chop:6
   - Max per activation: 1
 
-### Deadly Dragons
+#### Deadly Dragons
 - Dragons → Presets :
   - Difficulty: Expert
 - Dragons → Special :
@@ -266,7 +266,7 @@ Currently the list comes with 3 additional animation mods
   
 **Note : Exit the MCM after this step to allow it to do its thing**
 
-### Easy Wheel
+#### Easy Wheel
 - General → Mode selection :
   - Use Swap mode: Enabled
   - Show: M5 (Or whatever hotkey you like)
@@ -282,7 +282,7 @@ Currently the list comes with 3 additional animation mods
   - 2: Horse Call
   - 3: Pray
     
-### ESF: Companions
+#### ESF: Companions
 - Requirements → Requirements Before Your Trial :
   - Player Level: 30
 - Requirements → Requirements Before Joining The Circle :
@@ -290,14 +290,14 @@ Currently the list comes with 3 additional animation mods
 - Requirements → Requirements Before Kodlak's Request :
   - Player Level: 60
 
-### Expanded Towns
+#### Expanded Towns
 - Settings → Fortification Wall :
   - Dawnstar: Disabled
   - Falkreath: Disabled
   - Morthal: Disabled
   - Winterhold: Disabled
 
-### Farmhouse Chimneys
+#### Farmhouse Chimneys
 - Mod Support → Arthmoor Village Options :
   - Enable all **EXCEPT** Falkreath
 - Mod Support → New Villages :
@@ -308,11 +308,11 @@ Currently the list comes with 3 additional animation mods
 - Mod Support → Mod Compatibility :
   - Expanded Towns and Cities: Enabled
 
-### Follower Framework
+#### Follower Framework
  - System → Save/Load Configuration : 
   - Load from File : Click
 
-### Frostfall
+#### Frostfall
 **Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
 
 - Overview → Frostfall Status :
@@ -320,7 +320,7 @@ Currently the list comes with 3 additional animation mods
 - Profiles → Settings Profiles :
   - Current Profile : Lexy LOTD Profile (Re-select this)
 
-### GIST Soul Trap
+#### GIST Soul Trap
 - Main → Notifications :
   - Show message on soul lost: Disabled
   - Show message on soul shrunk: Disabled
@@ -330,7 +330,7 @@ Currently the list comes with 3 additional animation mods
   - Enable leveling system: Enabled
   - Skill: Enchanting
 
-### Immersive Armors
+#### Immersive Armors
 - Armor Options → Distribution : 
   - Barbarian Hero Armor: Disabled
 
@@ -339,7 +339,7 @@ Currently the list comes with 3 additional animation mods
   
 **Note : Exit the MCM and wait for it to say  "Immersivie Armors Configuration has Finished". Takes about 30 seconds**
 
-### Immersive Creatures
+#### Immersive Creatures
 - General → General : 
   - Select Version Preset: Purist - No Spiders
 - Additional Spawns → Spawn Types
@@ -355,14 +355,14 @@ Currently the list comes with 3 additional animation mods
 - Difficulty Adjustments → Creature Spawn Difficulty : 
   - Additional Spawns: Medium
   
-### Immersive HUD
+#### Immersive HUD
 - Activation → Compass Activation :
   - Key press toggles: Enabled
 - Options :
   - Enable fast fade of magicka: Enabled
   - Enable fast fade of stamina: Enabled
 
-### Keep It Clean
+#### Keep It Clean
 - Settings → Parameters :
   - Soap Buff Duration : 9
   - Duration before becoming Dirty : 48
@@ -370,17 +370,17 @@ Currently the list comes with 3 additional animation mods
 - Settings → Toggles :
   - Start Keep It Clean: Enabled
 
-### LOTD Relic Notifications
+#### LOTD Relic Notifications
 - Notification Display Setting :
   - Show Basic Notifications : Enabled
 
-### Legacy of The Dragonborn
+### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
   - Carriages: Enabled
   - Inns: Enabled
   - Player Houses: Enabled
 
-### Lock Overhaul
+#### Lock Overhaul
 - General : 
   - Activate Lock Overhaul: Enabled (This will require you to exit and reload the MCM)
 - General → General Settings : 
@@ -394,18 +394,18 @@ Currently the list comes with 3 additional animation mods
   - Enable Unlock Spell: Enabled
   - Frost effect Required Skill malus: -0
 
-### Moonlight Tales
+#### Moonlight Tales
 - General : 
   - Transform Back Stagger: Disabled
   - Werewolf Loot: Disabled
 - Appearance : 
   - Werewolf Appearance: Alpha (Black with Red Eyes)
 
-### moreHUD
+#### moreHUD
 - Presets → Save setting with FISS :
   - Load User Settings? : GO
   
-### Not So Fast MG
+#### Not So Fast MG
 - Minimum Days Before Event : 
   - Saarthal Expedition: 3
   - Psijic Monk Visit: 7
@@ -413,20 +413,20 @@ Currently the list comes with 3 additional animation mods
   - J'Zargo's Experiment: 4
   - Onmund's Request: 4
 
-### Not So Fast MQ
+#### Not So Fast MQ
 - Minimum Days Before Events :
   - First Dragon Sighting: 3
   - Note From Delphine: 6
 - Other :
   - No Negotiations: Enabled
 
-### OBIS - Patrols
+#### OBIS - Patrols
 - Settings → Bandit Patrols :
   - Enable?: Enabled
 - Settings → Difficulty :
   - How Tough?: Toughest
 
-### Predator Vision
+#### Predator Vision
 - Predator Vision → Keys :
   - Nightvision activation key: V
   - Predator vision activation key: H  
@@ -438,26 +438,26 @@ Currently the list comes with 3 additional animation mods
 - Predator Vision → options : 
   - Werewolves get Predator Vision as humans: Enabled
 
-### Quick Light
+#### Quick Light
 - Quick Light → Brightness :
   - Brightness - Bright
 
-### Realistic Needs
+#### Realistic Needs
 - Basic Needs → Start RND
 
-### iWant RND Widgets
+#### iWant RND Widgets
 **Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST**
 - Preset Load → Preset : 
   - DarkLadyLexy's LOTD Guide
 
-### Realistic Water Two
+#### Realistic Water Two
 - Mod Options → Blacksmith Forge Water :
   - The Fall of Granite Hill: Enabled
   - Kynesgrove: Enabled
   - Rorikstead: Enabled
   - Expanded Towns and Cities SSE: Enabled
 
-### SkyUI
+#### SkyUI
 - General → Item List :
   - Font Size: Small
   - Category Icon Theme: CELTIC
@@ -469,20 +469,43 @@ Currently the list comes with 3 additional animation mods
   - Container Menu: Disabled
   - Crafting Menu: Disabled
 
-### Skyrim’s Unique Treasures
+#### Skyrim’s Unique Treasures
 - SUT Configuration → Configuration Options : 
   - Immersive Ownership: Enabled
   - Lore friendly items only: Enabled
 
-### Storm Lightning
+#### Storm Lightning
 - Preset → Load Preset : 
   - Realistic: Enabled
 - Settings → Fork Lightning : 
   - Minimum Fork Distance: 1
 - Advanced → Compatibility Mode : 
   - Compatibility Mode: Enabled
+
+#### Thieves Guild Requirements
+- Main Quest → Requirements to Begin Recruitment Quest :
+  - Sneak: 25
+  - Items Stolen: 250
+
+- Main Quest → Requirements to Begin 3rd Quest :
+  - Radiant Jobs Completed: 20
+  - Randomize: Enabled
+  - Sneak Skills 35
+- Main Quest → Requirements to Begin 4th Quest :
+  - Radiant Jobs Completed: 40
+  - Sneak Skills 45
+- Radiant Quests : → Radiant Job Options : 
+  - Bedlam Job : 500
+- Radiant Quests → City Influence Quests :
+  - Randomize: Enabled
+- Misc Options → Unusual Gems :
+  - Selling Price: 50
+  - Cost Multiple to Buy:  x 20
+- Misc Options → Shadowmarks :
+  - Require City Quest: Enabled
+  - Use Loot mark: Enabled
   
-### Timing is Everything
+#### Timing is Everything
 - DLC Quests → Dawnguard :
   - Enabled Vampire Attacks: Enabled
   - Vampire Attacks: 30
@@ -530,37 +553,14 @@ Currently the list comes with 3 additional animation mods
 - Extra Options → Dragon Attacks
   - Min Days Between Attacks: 3
   - Dragon Attack Chance: 100
-
-### Thieves Guild Requirements
-- Main Quest → Requirements to Begin Recruitment Quest :
-  - Sneak: 25
-  - Items Stolen: 250
-
-- Main Quest → Requirements to Begin 3rd Quest :
-  - Radiant Jobs Completed: 20
-  - Randomize: Enabled
-  - Sneak Skills 35
-- Main Quest → Requirements to Begin 4th Quest :
-  - Radiant Jobs Completed: 40
-  - Sneak Skills 45
-- Radiant Quests : → Radiant Job Options : 
-  - Bedlam Job : 500
-- Radiant Quests → City Influence Quests :
-  - Randomize: Enabled
-- Misc Options → Unusual Gems :
-  - Selling Price: 50
-  - Cost Multiple to Buy:  x 20
-- Misc Options → Shadowmarks :
-  - Require City Quest: Enabled
-  - Use Loot mark: Enabled
   
-### Trade and Barter
+#### Trade and Barter
 - Trade & Barter → Settings :
   - Modify Barter Setting: Enabled
 - Trade & Barter → Preset : 
   - Barter Presets: Medium
 
-### Ultimate Combat
+#### Ultimate Combat
 - General → Timed Block : 
   - Effective Time: 0.00s
   - Blur Strength: 0.0s
@@ -585,15 +585,16 @@ Currently the list comes with 3 additional animation mods
 - NPC Settings → Dragon Priest : 
   - HP Mult: HP 1.0
   
-### VioLens
+#### VioLens
 - Profile System → Menu Settings : 
   - Load : LEXY LOTD VIOLENS
   
-### Wildcat Combat
+#### Wildcat Combat
 - Wildcat → Injuries : 
   - Disabled Injuries: Enabled   
 - Wildcat → Difficulty : 
   - Allow Wildcat to Manage Difficulty: Enabled
+  
 ## Creating your Character
 
 Simply step up to the statue of mara and choose a start.
