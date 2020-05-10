@@ -533,7 +533,6 @@ Currently the list comes with 3 additional animation mods
   - Bedlam Job : 500
 - Radiant Quests → City Influence Quests :
   - Randomize: Enabled
-  - Radiant Job Option:
 - Misc Options → Unusual Gems :
   - Selling Price: 50
   - Cost Multiple to Buy:  x 20
