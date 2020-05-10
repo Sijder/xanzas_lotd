@@ -30,6 +30,7 @@
 - [In Game MCM Options](#in-game-mcm-options)
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
+  - [Ultrawide Options](#ultrawide-options)
   - [Tweaking Performance](#tweaking-performance)
     - [Tweaking the ENB](#tweaking-the-enb)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -604,6 +605,18 @@ Currently the list comes with 3 additional animation mods
 Simply step up to the statue of mara and choose a start.
 
 ## FAQ
+
+### Ultrawide Options
+If you have an ultrawide monitor (21:9), the aspect ratios will be off. You will want to download the following mods from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778).
+- Whichever main file applies to your monitor resolution
+- The following optional files
+  - Better Dialogue Control Widescreen Fix
+  - Better MessageBox Control Widescreen Fix
+  - Campfire 1.12.1 and Frostall 3.4.1SE - Unofficial SSE Widescreen Fix
+  - Experience - Widescreen fix
+  - Widescreen Fix for SkyUI SE - Flashing Savegames FIx
+  - Wider MCM Menu for SkyUI - Widescreen Fix
+
 
 ### Tweaking the Game Settings
 
