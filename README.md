@@ -235,22 +235,22 @@ Currently the list comes with 3 additional animation mods
 #### Complete Crafting
 - Recipe Display → Crafting Menu Filters :
   - Crafting Categories: Disabled
-  - Item Filters: Disabled
+  - Item Filters : Disabled
   - Breakdown Recipes: Enabled   
 - Crafting Options → Additional Items: :
-  - Artifact Replicas: Enabled
-  - Matching Circlets: Enabled
+  - Artifact Replicas : Enabled
+  - Matching Circlets : Enabled
 - Learning & XP → Smithing Experience:
-    - Tanning Rack:0.1
-    - Smelter:0.2
-    - Mining 20
+    - Tanning Rack : 0.1
+    - Smelter : 0.2
+    - Mining : 20
 - Learning & XP → Learn to Craft :   
-  - Learning Points required to Craft: 250
+  - Learning Points required to Craft : 250
 - Mining  and Materials→ Mining :
-  - Mining Presets:  FASTER MINING
+  - Mining Presets : FASTER MINING
 - Mining  and Materials→ Firewood :
-  - Firewood per chop:6
-  - Max per activation: 1
+  - Firewood per chop : 6
+  - Max per activation : 1
 
 #### Deadly Dragons
 - Dragons → Presets :
@@ -260,53 +260,53 @@ Currently the list comes with 3 additional animation mods
 
 ### Diverse Dragons Col. 3
 - Dragons
-  - Nether Dragon: Disabled
-  - Sanguine Dragon: Disabled
-  - Vile Dragon: Disabled
+  - Nether Dragon : Disabled
+  - Sanguine Dragon : Disabled
+  - Vile Dragon : Disabled
   
 **Note : Exit the MCM after this step to allow it to do its thing**
 
 #### Easy Wheel
 - General → Mode selection :
-  - Use Swap mode: Enabled
-  - Show: M5 (Or whatever hotkey you like)
-  - Next: Arrow Right Key (Or whatever hotkey you like)
-  - Previous: Arrow Left Key (Or whatever hotkey you like)
+  - Use Swap mode : Enabled
+  - Show : M5 (Or whatever hotkey you like)
+  - Next : Arrow Right Key (Or whatever hotkey you like)
+  - Previous : Arrow Left Key (Or whatever hotkey you like)
 - Available Functions → Loaded Mods :
   - Heathfire Multi Kid Adoption: Hidden
   - Dovahkiin's Relax: Hidden
   - Simple Action: Hidden
 - Configuration → Wheel Layout :
-  - Current Wheel:2
+  - Current Wheel : 2
   - 1: Horses Whistle
   - 2: Horse Call
   - 3: Pray
     
 #### ESF: Companions
 - Requirements → Requirements Before Your Trial :
-  - Player Level: 30
+  - Player Level : 30
 - Requirements → Requirements Before Joining The Circle :
-  - Player Level: 40
+  - Player Level : 40
 - Requirements → Requirements Before Kodlak's Request :
-  - Player Level: 60
+  - Player Level : 60
 
 #### Expanded Towns
 - Settings → Fortification Wall :
-  - Dawnstar: Disabled
-  - Falkreath: Disabled
-  - Morthal: Disabled
-  - Winterhold: Disabled
+  - Dawnstar : Disabled
+  - Falkreath : Disabled
+  - Morthal : Disabled
+  - Winterhold : Disabled
 
 #### Farmhouse Chimneys
 - Mod Support → Arthmoor Village Options :
   - Enable all **EXCEPT** Falkreath
 - Mod Support → New Villages :
-  - Helarchen Creek: Enabled
-  - Oakwood: Enabled
+  - Helarchen Creek : Enabled
+  - Oakwood : Enabled
 - Mod Support → Misc Mods :
-  - Cutting Room Floor: Enabled
+  - Cutting Room Floor : Enabled
 - Mod Support → Mod Compatibility :
-  - Expanded Towns and Cities: Enabled
+  - Expanded Towns and Cities : Enabled
 
 #### Follower Framework
  - System → Save/Load Configuration : 
@@ -316,23 +316,23 @@ Currently the list comes with 3 additional animation mods
 **Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
 
 - Overview → Frostfall Status :
-  - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled)
+  - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled")
 - Profiles → Settings Profiles :
   - Current Profile : Lexy LOTD Profile (Re-select this)
 
 #### GIST Soul Trap
 - Main → Notifications :
-  - Show message on soul lost: Disabled
-  - Show message on soul shrunk: Disabled
-  - Show message on soul displaced: Disabled
-  - Show message on soul trapped: Enabled
+  - Show message on soul lost : Disabled
+  - Show message on soul shrunk : Disabled
+  - Show message on soul displaced : Disabled
+  - Show message on soul trapped : Enabled
 - Main → Leveling : 
-  - Enable leveling system: Enabled
-  - Skill: Enchanting
+  - Enable leveling system : Enabled
+  - Skill : Enchanting
 
 #### Immersive Armors
 - Armor Options → Distribution : 
-  - Barbarian Hero Armor: Disabled
+  - Barbarian Hero Armor : Disabled
 
 - Extra Options → Special Distribution Options :
   - Varied Guard Helmets : Disabled
@@ -343,21 +343,21 @@ Currently the list comes with 3 additional animation mods
 - General → General : 
   - Select Version Preset: Purist - No Spiders
 - Additional Spawns → Spawn Types
-  - Animals Spawns: Disabled
+  - Animals Spawns : Disabled
   - Ore Guardian Spawns: Disabled
 - Night Spawns → Spawn Time : 
-  - Start: 19 PM
-  - End: 6 AM
+  - Start : 19 PM
+  - End : 6 AM
 - Random Event Spawns : 
   - Random Event Spawns : Deactivated
 - Difficulty Adjustments → Global Difficulty : 
   - Assign Global Difficulty: Adept
 - Difficulty Adjustments → Creature Spawn Difficulty : 
-  - Additional Spawns: Medium
+  - Additional Spawns : Medium
   
 #### Immersive HUD
 - Activation → Compass Activation :
-  - Key press toggles: Enabled
+  - Key press toggles : Enabled
 - Options :
   - Enable fast fade of magicka: Enabled
   - Enable fast fade of stamina: Enabled
@@ -369,6 +369,8 @@ Currently the list comes with 3 additional animation mods
   - Duration before becoming Very Dirty : 72
 - Settings → Toggles :
   - Start Keep It Clean: Enabled
+  
+**Note : Exit the MCM to let it start up properly**
 
 #### LOTD Relic Notifications
 - Notification Display Setting :
@@ -384,14 +386,14 @@ Currently the list comes with 3 additional animation mods
 - General : 
   - Activate Lock Overhaul: Enabled (This will require you to exit and reload the MCM)
 - General → General Settings : 
-  - Allow increasing skill: Enabled
-  - Enable the sound effect: Enabled
+  - Allow increasing skill : Enabled
+  - Enable the sound effect : Enabled
   - Enable Crime: Enabled
 - Smash Locks → Smash Locks : 
   - Activate Smash Locks: Enabled
-  - Allow Weapons: Two + One Handed
+  - Allow Weapons : Two + One Handed
 - Unlock with Magic → Unlock Spell :
-  - Enable Unlock Spell: Enabled
+  - Enable Unlock Spell : Enabled
   - Frost effect Required Skill malus: -0
 
 #### Moonlight Tales
@@ -407,32 +409,32 @@ Currently the list comes with 3 additional animation mods
   
 #### Not So Fast MG
 - Minimum Days Before Event : 
-  - Saarthal Expedition: 3
-  - Psijic Monk Visit: 7
-  - Brelyna's Practice: 4
-  - J'Zargo's Experiment: 4
-  - Onmund's Request: 4
+  - Saarthal Expedition : 3
+  - Psijic Monk Visi t: 7
+  - Brelyna's Practice : 4
+  - J'Zargo's Experiment : 4
+  - Onmund's Request : 4
 
 #### Not So Fast MQ
 - Minimum Days Before Events :
-  - First Dragon Sighting: 3
-  - Note From Delphine: 6
+  - First Dragon Sighting : 3
+  - Note From Delphine : 6
 - Other :
-  - No Negotiations: Enabled
+  - No Negotiations : Enabled
 
 #### OBIS - Patrols
 - Settings → Bandit Patrols :
-  - Enable?: Enabled
+  - Enable? : Enabled
 - Settings → Difficulty :
-  - How Tough?: Toughest
+  - How Tough? : Toughest
 
 #### Predator Vision
 - Predator Vision → Keys :
-  - Nightvision activation key: V
-  - Predator vision activation key: H  
+  - Nightvision activation key : V
+  - Predator vision activation key : H  
 - Predator Vision → Settings :
-  - Nightvision Color: 30%
-  - Predator Vision Color Boost: 70%   
+  - Nightvision Color : 30%
+  - Predator Vision Color Boost : 70%   
 - Predator Vision → Activation sounds :
   - Nightvision: Sound 2   
 - Predator Vision → options : 
@@ -445,6 +447,8 @@ Currently the list comes with 3 additional animation mods
 #### Realistic Needs
 - Basic Needs → Start RND
 
+**Note : Exit the MCM to let it start up properly**
+
 #### iWant RND Widgets
 **Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST**
 - Preset Load → Preset : 
@@ -452,138 +456,138 @@ Currently the list comes with 3 additional animation mods
 
 #### Realistic Water Two
 - Mod Options → Blacksmith Forge Water :
-  - The Fall of Granite Hill: Enabled
-  - Kynesgrove: Enabled
-  - Rorikstead: Enabled
-  - Expanded Towns and Cities SSE: Enabled
+  - The Fall of Granite Hill : Enabled
+  - Kynesgrove : Enabled
+  - Rorikstead : Enabled
+  - Expanded Towns and Cities SSE : Enabled
 
 #### SkyUI
 - General → Item List :
-  - Font Size: Small
-  - Category Icon Theme: CELTIC
+  - Font Size : Small
+  - Category Icon Theme : CELTIC
 - Advanced → SWF Version Checking : 
-  - Map Menu: Disabled
-  - Favorites Menu: Disabled
-  - Inventory Menu: Disabled
-  - Barter Menu: Disabled
-  - Container Menu: Disabled
-  - Crafting Menu: Disabled
+  - Map Menu : Disabled
+  - Favorites Menu : Disabled
+  - Inventory Menu : Disabled
+  - Barter Menu : Disabled
+  - Container Menu : Disabled
+  - Crafting Menu : Disabled
 
 #### Skyrim’s Unique Treasures
 - SUT Configuration → Configuration Options : 
-  - Immersive Ownership: Enabled
-  - Lore friendly items only: Enabled
+  - Immersive Ownership : Enabled
+  - Lore friendly items only : Enabled
 
 #### Storm Lightning
 - Preset → Load Preset : 
-  - Realistic: Enabled
+  - Realistic : Enabled
 - Settings → Fork Lightning : 
-  - Minimum Fork Distance: 1
+  - Minimum Fork Distance : 1
 - Advanced → Compatibility Mode : 
-  - Compatibility Mode: Enabled
+  - Compatibility Mode : Enabled
 
 #### Thieves Guild Requirements
 - Main Quest → Requirements to Begin Recruitment Quest :
-  - Sneak: 25
-  - Items Stolen: 250
+  - Sneak : 25
+  - Items Stolen : 250
 
 - Main Quest → Requirements to Begin 3rd Quest :
-  - Radiant Jobs Completed: 20
-  - Randomize: Enabled
-  - Sneak Skills 35
+  - Radiant Jobs Completed : 20
+  - Randomize : Enabled
+  - Sneak Skills : 35
 - Main Quest → Requirements to Begin 4th Quest :
-  - Radiant Jobs Completed: 40
-  - Sneak Skills 45
-- Radiant Quests : → Radiant Job Options : 
+  - Radiant Jobs Completed : 40
+  - Sneak Skills : 45
+- Radiant Quests → Radiant Job Options : 
   - Bedlam Job : 500
 - Radiant Quests → City Influence Quests :
-  - Randomize: Enabled
+  - Randomize : Enabled
 - Misc Options → Unusual Gems :
-  - Selling Price: 50
-  - Cost Multiple to Buy:  x 20
+  - Selling Price : 50
+  - Cost Multiple to Buy : x 20
 - Misc Options → Shadowmarks :
-  - Require City Quest: Enabled
-  - Use Loot mark: Enabled
+  - Require City Quest : Enabled
+  - Use Loot mark : Enabled
   
 #### Timing is Everything
 - DLC Quests → Dawnguard :
-  - Enabled Vampire Attacks: Enabled
-  - Vampire Attacks: 30
-  - Dawnguard Recruitment: 30
-  - Disgused Vampire Chance: 30
-  - Scouting Party Chance: 35
-  - Eclipse Attack Chance: 0
-  - Min Days Between Attacks: 5
-  - Max Days Between Attacks: 20
--DLC Quests → Hearthfire
-  - Minimum Level: 20
-- DLC → Dragonborn
+  - Enabled Vampire Attacks : Enabled
+  - Vampire Attacks : 30
+  - Dawnguard Recruitment : 30
+  - Disgused Vampire Chance : 30
+  - Scouting Party Chance : 35
+  - Eclipse Attack Chance : 0
+  - Min Days Between Attacks : 5
+  - Max Days Between Attacks : 20
+-DLC Quests → Hearthfire :
+  - Minimum Level : 20
+- DLC → Dragonborn :
   - After The Horn of Jurgen Windcaller
-  - Minimum Level: 50
-  - Cultist Attack Chance: 25
-- Other Quests → Daedric Quest
-  - The Cursed Tribe: 25
-  - The Break of Dawn: 45
-  - The Break of Dawn: No Vampires: Enabled
-  - The Only Cure: 40
-  - A Night to Remember: 30
-  - Discerning the Transmundane: 60
-  - The Whispering Door: 40
-  - Pieces of The Past: 35
-  - Boethiah's Calling: 40
--Other Quests → Misc Quest
-  - The Wolf Queen Awakened: 47
-  - Unfathomable Depths: 32
-  - Grimsever's Return: 32
-  - Kill The Giant: 22
-  - Dungeon Delving: 30
-  - Kill the Vampire: 30
-  - Deathbrand: 36
-  - Ebony Warrior: 75
-- Extra Options → World Encounters
-  - Werewolf Encounters: Enabled
-  - Thalmor Squard: Min Level: 10
-  - Hired Thugs: Stolen Item Value: 300
-  - Hired Assassin Min Level: 15
-  - Hired Assaults:0
-  - Hired Assassin: Murders: 0
-  - Bounty Collector: Required Bounty: 1500
-  - Bounty Collector Chance: 25
-  - Letter from a Friend: Disabled
-- Extra Options → Dragon Attacks
-  - Min Days Between Attacks: 3
-  - Dragon Attack Chance: 100
+  - Minimum Level : 50
+  - Cultist Attack Chance : 25
+- Other Quests → Daedric Quest :
+  - The Cursed Tribe : 25
+  - The Break of Dawn : 45
+  - The Break of Dawn: No Vampires : Enabled
+  - The Only Cure : 40
+  - A Night to Remember : 30
+  - Discerning the Transmundane : 60
+  - The Whispering Door : 40
+  - Pieces of The Past : 35
+  - Boethiah's Calling : 40
+-Other Quests → Misc Quest :
+  - The Wolf Queen Awakened : 47
+  - Unfathomable Depths : 32
+  - Grimsever's Return : 32
+  - Kill The Giant : 22
+  - Dungeon Delving : 30
+  - Kill the Vampire : 30
+  - Deathbrand : 36
+  - Ebony Warrior : 75
+- Extra Options → World Encounters :
+  - Werewolf Encounters : Enabled
+  - Thalmor Squard : Min Level: 10
+  - Hired Thugs: Stolen Item Value : 300
+  - Hired Assassin Min Level : 15
+  - Hired Assaults : 0
+  - Hired Assassin: Murders : 0
+  - Bounty Collector: Required Bounty : 1500
+  - Bounty Collector Chance : 25
+  - Letter from a Friend : Disabled
+- Extra Options → Dragon Attacks :
+  - Min Days Between Attacks : 3
+  - Dragon Attack Chance : 100
   
 #### Trade and Barter
 - Trade & Barter → Settings :
-  - Modify Barter Setting: Enabled
+  - Modify Barter Setting : Enabled
 - Trade & Barter → Preset : 
-  - Barter Presets: Medium
+  - Barter Presets : Medium
 
 #### Ultimate Combat
 - General → Timed Block : 
-  - Effective Time: 0.00s
-  - Blur Strength: 0.0s
+  - Effective Time : 0.00s
+  - Blur Strength : 0.0s
 - General → Game Balance Settings : 
-  - Speed Bonus: Disabled
+  - Speed Bonus : Disabled
 - General → Others :
   - Swing Effect : Disabled (Heard there's some issues with AllGUD with this enabled)
 - General → Stagger : 
-  - Enemy Pose: Disabled
-  - Player Stagger: Disabled
-  - NPC's Bow Poise: 0.00s
-  - Player Bow Poise: 0.00s
+  - Enemy Pose : Disabled
+  - Player Stagger : Disabled
+  - NPC's Bow Poise : 0.00s
+  - Player Bow Poise : 0.00s
 - General → Locational : 
-  - Headshot Damage Mult: 0.0
-  - Headshot Message: Disabled
-  - Locational Damage Sound: Disabled
-  - Locational Damage Effect: Disabled
+  - Headshot Damage Mult : 0.0
+  - Headshot Message : Disabled
+  - Locational Damage Sound : Disabled
+  - Locational Damage Effect : Disabled
 - NPC Settings → Giant : 
-  - Max HP Scale: Max HP 1.0
+  - Max HP Scale : Max HP 1.0
 - NPC Settings → Dwarven Centurion : 
-  - HP Mult: HP 1.0
+  - HP Mult : HP 1.0
 - NPC Settings → Dragon Priest : 
-  - HP Mult: HP 1.0
+  - HP Mult : HP 1.0
   
 #### VioLens
 - Profile System → Menu Settings : 
