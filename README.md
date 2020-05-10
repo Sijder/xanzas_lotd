@@ -246,9 +246,9 @@ Currently the list comes with 3 additional animation mods
     - Mining : 20
 - Learning & XP → Learn to Craft :   
   - Learning Points required to Craft : 250
-- Mining  and Materials→ Mining :
+- Mining  and Materials → Mining :
   - Mining Presets : FASTER MINING
-- Mining  and Materials→ Firewood :
+- Mining  and Materials → Firewood :
   - Firewood per chop : 6
   - Max per activation : 1
 
@@ -258,7 +258,7 @@ Currently the list comes with 3 additional animation mods
 - Dragons → Special :
   - Knockdown: Disabled
 
-### Diverse Dragons Col. 3
+#### Diverse Dragons Col. 3
 - Dragons
   - Nether Dragon : Disabled
   - Sanguine Dragon : Disabled
