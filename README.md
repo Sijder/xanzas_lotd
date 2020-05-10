@@ -215,9 +215,6 @@ Currently the list comes with 3 additional animation mods
 - Cooking → Water :
   - Craft Water - Disabled
   - Get Water from Wells : Disabled
-- Basic Needs → Hunger & Fatigue :
-  - Enable Hunger Penalties - Disabled
-  - Notification Messages: 1ST PERSON
 - Help → Troubleshooting : 
   - Ragdoll Paralysis - Disabled
 
@@ -225,7 +222,7 @@ Currently the list comes with 3 additional animation mods
 - Recipe Display → Crafting Menu Filters :
   - Crafting Categories: Disabled
   - Item Filters: Disabled
-  - Breakdown Recipes: Enabled
+  - Breakdown Recipes: Enabled   
 -Crafting Options → Additional Items: :
   -Artifact Replicas: Enabled
   -Matching Circlets: Enabled
@@ -233,7 +230,7 @@ Currently the list comes with 3 additional animation mods
     - Tanning Rack:0.1
     - Smelter:0.2
     - Mining 20
--Learning & XP → Learn to Craft :
+-Learning & XP → Learn to Craft :   
   - Learning Points required to Craft: 250
 - Mining  and Materials→ Mining :
   - Mining Presets:  FASTER MINING
@@ -252,6 +249,7 @@ Currently the list comes with 3 additional animation mods
   - Nether Dragon: Disabled
   - Sanguine Dragon: Disabled
   - Vile Dragon: Disabled
+**Note : Exit the MCM after this step to allow it to do its thing**
 
 ### Easy Wheel
 - General → Mode selection :
@@ -286,18 +284,7 @@ Currently the list comes with 3 additional animation mods
 
 ### Farmhouse Chimneys
 - Mod Support → Arthmoor Village Options :
-  - Darkwater Crossing: Enabled
-  - Dawnstar: Enabled
-  - Dragon Bridge: Enabled
-  - Falkreath: Disabled
-  - Ivarstead: Enabled
-  - Karthwasten: Enabled
-  - Keld-Nar: Enabled
-  - Kynesgrove: Enabled
-  - Rorikstead: Enabled
-  - Shor's Stone: Enabled
-  - Soljund's Sinkhole: Enabled
-  - Whistling Mine: Enabled
+  - Enable all **EXCEPT** Falkreath
 - Mod Support → New Villages :
   - Helarchen Creek: Enabled
   - Oakwood: Enabled
@@ -311,12 +298,12 @@ Currently the list comes with 3 additional animation mods
   - Load from File : Click
 
 ### Frostfall
-**Note DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
+**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU EXIT THE CAVE IN HELGEN IF YOU ARE PLAYING THE VANILLA START.**
 
 - Overview → Frostfall Status :
-  - Frostfall Is: Enabled (This will require you to exit and reload the MCM)
+  - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled)
 - Profiles → Settings Profiles :
-  - Current Profile : Lexy LOTD Profile
+  - Current Profile : Lexy LOTD Profile (Re-select this)
 
 ### GIST Soul Trap
 - Main → Notifications :
@@ -334,12 +321,12 @@ Currently the list comes with 3 additional animation mods
 
 - Extra Options → Special Distribution Options :
   - Varied Guard Helmets : Disabled
+  
+**Note : Exit the MCM and wait for it to say  "Immersivie Armors Configuration has Finished". Takes about 30 seconds**
 
 ### Immersive Creatures
 - General → General : 
   - Select Version Preset: Purist - No Spiders
-- Creature Toggles → Creatures :
-  - Goblin : Disabled
 - Additional Spawns → Spawn Types
   - Animals Spawns: Disabled
   - Ore Guardian Spawns: Disabled
@@ -360,11 +347,6 @@ Currently the list comes with 3 additional animation mods
   - Enable fast fade of magicka: Enabled
   - Enable fast fade of stamina: Enabled
 
-### iWant RND Widgets
-Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
-- Preset Load → Preset : 
-  - DarkLadyLexy's LOTD Guide
-
 ### Keep It Clean
 - Settings → Parameters :
   - Soap Buff Duration : 9
@@ -378,7 +360,7 @@ Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
   - Show Basic Notifications : Enabled
 
 ### Legacy of The Dragonborn
-- LOTD Settings → Shippment Crate Locations : 
+- LOTD Settings → General → Shippment Crate Locations : 
   - Carriages: Enabled
   - Inns: Enabled
   - Player Houses: Enabled
@@ -432,13 +414,13 @@ Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
 ### Predator Vision
 - Predator Vision → Keys :
   - Nightvision activation key: V
-  - Predator vision activation key: H
+  - Predator vision activation key: H  
 - Predator Vision → Settings :
   - Nightvision Color: 30%
-  - Predator Vision Color Boost: 70% 
--Predator Vision → Activation sounds :
-  - Nightvision: Sound 2 
--Predator Vision → options : 
+  - Predator Vision Color Boost: 70%   
+- Predator Vision → Activation sounds :
+  - Nightvision: Sound 2   
+- Predator Vision → options : 
   - Werewolves get Predator Vision as humans: Enabled
 
 ### Quick Light
@@ -447,6 +429,11 @@ Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
 
 ### Realistic Needs
 - Basic Needs → Start RND
+
+### iWant RND Widgets
+**Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST**
+- Preset Load → Preset : 
+  - DarkLadyLexy's LOTD Guide
 
 ### Realistic Water Two
 - Mod Options → Blacksmith Forge Water :
@@ -479,31 +466,94 @@ Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST
   - Minimum Fork Distance: 1
 - Advanced → Compatibility Mode : 
   - Compatibility Mode: Enabled
+  
 ### Timing is Everything
-**NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick**
-- Extra Options → Presets : 
-  - Load Preset
+- DLC Quests → Dawnguard :
+  - Enabled Vampire Attacks: Enabled
+  - Vampire Attacks: 30
+  - Dawnguard Recruitment: 30
+  - Disgused Vampire Chance: 30
+  - Scouting Party Chance: 35
+  - Eclipse Attack Chance: 0
+  - Min Days Between Attacks: 5
+  - Max Days Between Attacks: 20
+-DLC Quests → Hearthfire
+  - Minimum Level: 20
+- DLC → Dragonborn
+  - After The Horn of Jurgen Windcaller
+  - Minimum Level: 50
+  - Cultist Attack Chance: 25
+- Other Quests → Daedric Quest
+  - The Cursed Tribe: 25
+  - The Break of Dawn: 45
+  - The Break of Dawn: No Vampires: Enabled
+  - The Only Cure: 40
+  - A Night to Remember: 30
+  - Discerning the Transmundane: 60
+  - The Whispering Door: 40
+  - Pieces of The Past: 35
+  - Boethiah's Calling: 40
+-Other Quests → Misc Quest
+  - The Wolf Queen Awakened: 47
+  - Unfathomable Depths: 32
+  - Grimsever's Return: 32
+  - Kill The Giant: 22
+  - Dungeon Delving: 30
+  - Kill the Vampire: 30
+  - Deathbrand: 36
+  - Ebony Warrior: 75
+- Extra Options → World Encounters
+  - Werewolf Encounters: Enabled
+  - Thalmor Squard: Min Level: 10
+  - Hired Thugs: Stolen Item Value: 300
+  - Hired Assassin Min Level: 15
+  - Hired Assaults:0
+  - Hired Assassin: Murders: 0
+  - Bounty Collector: Required Bounty: 1500
+  - Bounty Collector Chance: 25
+  - Letter from a Friend: Disabled
+- Extra Options → Dragon Attacks
+  - Min Days Between Attacks: 3
+  - Dragon Attack Chance: 100
 
 ### Thieves Guild Requirements
-**NOTE : You have to perform this step twice. Exit the MCM after performing it once then do it a second time otherwise the settings wont stick**
-- Misc Options → User Presets : 
-  - Load Preset
+- Main Quest → Requirements to Begin Recruitment Quest :
+  - Sneak: 25
+  - Items Stolen: 250
+
+- Main Quest → Requirements to Begin 3rd Quest :
+  - Radiant Jobs Completed: 20
+  - Randomize: Enabled
+  - Sneak Skills 35
+- Main Quest → Requirements to Begin 4th Quest :
+  - Radiant Jobs Completed: 40
+  - Sneak Skills 45
+- Radiant Quests : → Radiant Job Options : 
+  - Bedlam Job : 500
+- Radiant Quests → City Influence Quests :
+  - Randomize: Enabled
+  - Radiant Job Option:
+- Misc Options → Unusual Gems :
+  - Selling Price: 50
+  - Cost Multiple to Buy:  x 20
+- Misc Options → Shadowmarks :
+  - Require City Quest: Enabled
+  - Use Loot mark: Enabled
   
 ### Trade and Barter
 - Trade & Barter → Settings :
   - Modify Barter Setting: Enabled
 Trade & Barter → Preset : 
-- Barter Rate: Medium
+- Barter Presets: Medium
 
 ### Ultimate Combat
 - General → Timed Block : 
   - Effective Time: 0.00s
   - Blur Strength: 0.0s
 - General → Game Balance Settings : 
-  - Hardcore Damage: Disabled
-  - Hardcore Stealth: Disabled
   - Speed Bonus: Disabled
-  - Player Killmove Immunity: Enabled
+- General → Others :
+  - Swing Effect : Disabled (Heard there's some issues with AllGUD with this enabled)
 - General → Stagger : 
   - Enemy Pose: Disabled
   - Player Stagger: Disabled
@@ -520,16 +570,16 @@ Trade & Barter → Preset :
   - HP Mult: HP 1.0
 - NPC Settings → Dragon Priest : 
   - HP Mult: HP 1.0
+  
 ### VioLens
 - Profile System → Menu Settings : 
   - Load : LEXY LOTD VIOLENS
   
 ### Wildcat Combat
 - Wildcat → Injuries : 
-  - Disabled Injuries: Enabled
-Wildcat → Difficulty : 
-- Allow Wildcat to Manage Difficulty: Enabled
-
+  - Disabled Injuries: Enabled   
+- Wildcat → Difficulty : 
+  - Allow Wildcat to Manage Difficulty: Enabled
 ## Creating your Character
 
 Simply step up to the statue of mara and choose a start.
