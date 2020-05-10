@@ -224,8 +224,8 @@ Currently the list comes with 3 additional animation mods
   - Item Filters: Disabled
   - Breakdown Recipes: Enabled   
 - Crafting Options → Additional Items: :
-  -Artifact Replicas: Enabled
-  -Matching Circlets: Enabled
+  - Artifact Replicas: Enabled
+  - Matching Circlets: Enabled
 - Learning & XP → Smithing Experience:
     - Tanning Rack:0.1
     - Smelter:0.2
