@@ -543,8 +543,8 @@ Currently the list comes with 3 additional animation mods
 ### Trade and Barter
 - Trade & Barter → Settings :
   - Modify Barter Setting: Enabled
-Trade & Barter → Preset : 
-- Barter Presets: Medium
+- Trade & Barter → Preset : 
+  - Barter Presets: Medium
 
 ### Ultimate Combat
 - General → Timed Block : 
