@@ -607,7 +607,7 @@ Simply step up to the statue of mara and choose a start.
 ## FAQ
 
 ### Ultrawide Options
-If you have an ultrawide monitor (21:9), the aspect ratios will be off. You will want to download the following mods from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778).
+If you have an ultrawide monitor (21:9), the aspect ratios will be off. You will want to download the following mods from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Place them below More Informative Console on the left pane.
 - Whichever main file applies to your monitor resolution
 - The following optional files
   - Better Dialogue Control Widescreen Fix
