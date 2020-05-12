@@ -78,7 +78,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
 #### Start Skyrim
 
@@ -151,7 +151,9 @@ This list uses Cathedral Weathers so you want to get an ENB that is compatible. 
 - [SkyrimSE Re-Engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 - [NVT](https://www.nexusmods.com/skyrimspecialedition/mods/11203)
 
-Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory
+Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory. 
+
+**Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
 
 ## Updating
 
@@ -208,6 +210,7 @@ Currently the list comes with 3 additional animation mods
 
 
 ## In-Game MCM Options
+Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
 #### A Matter of Time
 - Presets :
