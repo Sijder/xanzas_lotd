@@ -3,6 +3,21 @@
 - [Changelog](#changelog)
   - [1.0.0: Initial Release](#100-initial-release)
   - [1.0.1: Broken Link Update](#101-broken-link-update)
+  - [1.0.2: Broken Link Update #2](#102-broken-link-update)
+
+## 1.0.2: Broken Link Update
+
+**Released at**: `13.05.2020`
+
+**Info**:
+
+Reupload due to mod updates and small bug fixes
+
+**Changed**
+- Updated Engine Fixes
+- Updated SSE Display Tweaks to 0.4.0
+- Fixed Wintersun temptation quest from reading books for Hermaeus Mora and Boethiah
+- Possible fix for skeleton crash by removing XPMSSE script and regenerating allgud skeletons (?)
 
 ## 1.0.1: Broken Link Update
 
