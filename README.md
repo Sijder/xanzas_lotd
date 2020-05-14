@@ -20,13 +20,6 @@
     - [Setting up NVIDIA Profile Inspector (NVIDIA GPUs Only)](#setting-up-nvidia-profile-inspector-nvidia-gpus-only)
     - [Getting an ENB](#getting-an-enb)
 - [Updating](#updating)
-- [Additional Mods](#additional-mods)
-  - [Wintersun](#wintersun)
-  - [AllGUD](#all-geared-up-derivative-allgud)
-  - [Artesian Cloaks of Skyrim](#artesian-cloaks-of-skyrim)
-  - [Vampire Facial Reclamation](#vampire-facial-reclamation)
-  - [Skyrim Reputation](#skyrim-reputation)
-  - [Animation Mods](#animation-mods)
 - [In Game MCM Options](#in-game-mcm-options)
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
@@ -165,62 +158,12 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## Additional Mods
-These are additional mods I have added over the regular Lexy's install.
-
-### Wintersun
-
-Wintersun adds religion and worship. Praying, worship at shrines and adhering to the tenets of your deity strengthens your bond with the deity and eventually grants divine powers. In addition to the divines and daedric princes, the mod adds many other deities from Elder Scrolls lore, each with their own shrines in the world.
-
-[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
-
-### All Geared Up Derivative (ALLGUD)
-
-AllGUD is a mod that shows all your visible favorited gear as well as offer dual sheathe meshes. 
-
-[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/28833)
-
-### Artesian Cloaks of Skyrim
-
-Artesian Cloaks of Skyrim adds HDT Physics to Cloaks of Skyrim and Winter is Coming. 
-
-[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/17416)
-
-### Vampire Facial Reclamation
-
-To Reclaim your Pretty Human Face from the Ravages of Vampirism. No Sunken anything for Male or Female player as vampire.
-
-[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/13030?tab=files)
-
-### Skyrim Reputation
-
-Skyrim Reputation introduces a reputation mechanic to make you treated as the hero or villain you really are, without it interfering with your game-play. All functions of the mod can be toggled on/off in the MCM menu.
-
-[More information can be found here](https://www.nexusmods.com/skyrimspecialedition/mods/22374)
-
-### Animation Mods
-
-Currently the list comes with 3 additional animation mods
-
-[Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667) - A complete revamped version of all other PCEA made from scratch. Nemesis PCEA's new design eliminates many bugs haunting other PCEA as well as greatly improves the performance. The day of Alternate Animation mods messing with your PCEA is over. 10 slots is not enough? Fear not, Nemesis PCEA supports up to 20 slots
-
-[Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761) - This mod has provide many of new weapon idle animations, and they are full set (including walk/run/turn). You can choose different style to replace the vanilla, Just try it and I wish you like it.
-
-[Magic Casting Animation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215) - This Mod will Replace vanilla skyrim staff and unarmed magic casting animations with animations that are a lot less jank and look cool.
-
-
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
 #### A Matter of Time
 - Presets :
   - Load user settings
-#### All Geared up Deriv.
-- Misc - Player :
-  - Enable Misc Item Display : Disabled
-- NPC :
-  - Enable Weapons : Enabled
-  - Enable Misc Item Display : Disabled
 
 #### Cathedral Weather
 - Settings → General :
