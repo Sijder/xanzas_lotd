@@ -21,7 +21,7 @@
 
 **Removed**
 - All Geared Up Derivative : 
-  - Not a Fan + Getting weird crashes since I added it in
+  - Not a fan + getting weird crashes since I added it in
 - Legacy of The Dragonborn SSE - Relic Notifications : 
   - Mod Updated, removed old version and doesn't work merged
 
