@@ -22,7 +22,11 @@
 - All Geared Up Derivative : 
   - Not a Fan + Getting weird crashes since I added it in
 - Legacy of The Dragonborn SSE - Relic Notifications : 
-  - Mod Updated and doesn't work merged
+  - Mod Updated, removed old version and doesn't work merged
+
+**Changes**
+- Minor Wintersun conflict resolutions with even better quest objectives
+- Minor SMASH overrides
 
 ## 1.0.2: Broken Link Update
 
