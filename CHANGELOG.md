@@ -17,6 +17,7 @@
 - Serenity v122
 - Inn Room Costs v4.1
 - xLODGEN v62
+- Nvidia Profile Inspector v2.3.0.12
 
 **Removed**
 - All Geared Up Derivative : 
