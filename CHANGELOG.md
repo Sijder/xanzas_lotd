@@ -14,7 +14,7 @@
 - Predator Vision - Alternate Start Fix
 
 **Updated**:
-- Serenity v122
+- Serenity v123
 - Inn Room Costs v4.1
 - xLODGEN v62
 - Nvidia Profile Inspector v2.3.0.12
