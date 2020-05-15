@@ -11,16 +11,18 @@
 **Released at**: `15.05.2020`
 
 **Added**:
-Predator Vision - Alternate Start Fix
+- Predator Vision - Alternate Start Fix
 
 **Updated**:
-Serenity v122
-Inn Room Costs v4.1
-xLODGEN v62
+- Serenity v122
+- Inn Room Costs v4.1
+- xLODGEN v62
 
 **Removed**
-All Geared Up Derivative : Not a Fan + Getting weird crashes since I added it in
-Legacy of The Dragonborn SSE - Relic Notifications : Mod Updated and doesn't work merged
+- All Geared Up Derivative : 
+  - Not a Fan + Getting weird crashes since I added it in
+- Legacy of The Dragonborn SSE - Relic Notifications : 
+  - Mod Updated and doesn't work merged
 
 ## 1.0.2: Broken Link Update
 
