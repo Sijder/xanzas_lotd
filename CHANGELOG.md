@@ -5,7 +5,7 @@
   - [1.0.1: Broken Link Update](#101-broken-link-update)
   - [1.0.2: Broken Link Update #2](#102-broken-link-update)
   - [1.1.0: Goodbye AllGUD & Relic Notifications](#110-goodbye-allgud-relic-notifications)
-  - [1.1.1: Broken Link Update #3]](#111-broken-link-update)
+  - [1.1.1: Broken Link Update #3](#111-broken-link-update)
 
 ## 1.1.1: Broken Link Update
 
