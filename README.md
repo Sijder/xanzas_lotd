@@ -518,7 +518,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - General → Game Balance Settings : 
   - Speed Bonus : Disabled
 - General → Others :
-  - Swing Effect : Disabled (Heard there's some issues with AllGUD with this enabled)
+  - Swing Effect : Disabled
 - General → Stagger : 
   - Enemy Pose : Disabled
   - Player Stagger : Disabled
