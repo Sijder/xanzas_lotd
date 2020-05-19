@@ -398,8 +398,22 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### iWant RND Widgets
 **Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST**
-- Preset Load → Preset : 
-  - DarkLadyLexy's LOTD Guide
+- General:
+  - X position -  1235
+  - Y position -  700
+- Shape:
+  - Orientation - Horizontal
+- Hunger:
+  - Satiated - White
+  - Peckish - Green
+- Thirst:
+  - Not Thirsty - White
+  - Slightly Thirsty - Green
+- Sleep:
+  - Not Tired - White
+  - Slightly Tired  - Green
+- Disease:
+  - None - White
 
 #### Realistic Water Two
 - Mod Options → Blacksmith Forge Water :
@@ -430,8 +444,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Realistic : Enabled
 - Settings → Fork Lightning : 
   - Minimum Fork Distance : 1
-- Advanced → Compatibility Mode : 
-  - Compatibility Mode : Enabled
 
 #### Thieves Guild Requirements
 - Main Quest → Requirements to Begin Recruitment Quest :
