@@ -319,11 +319,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   
 **Note : Exit the MCM to let it start up properly**
 
-#### LOTD Relic Notifications
-- Notification Display Setting :
-  - Show Basic Notifications : Enabled
-
-### LOTD Settings
+#### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
   - Carriages: Enabled
   - Inns: Enabled
