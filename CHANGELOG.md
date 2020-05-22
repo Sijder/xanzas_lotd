@@ -7,7 +7,7 @@
   - [1.1.0: Goodbye AllGUD & Relic Notifications](#110-goodbye-allgud--relic-notifications)
   - [1.1.1: Broken Link Update #3](#111-broken-link-update)
   - [1.2.0: The first Lexy update](#120-the-first-lexy-update)
-  - [1.3.0: Lexy Update #2](#130-lexy-update--2)
+  - [1.3.0: Lexy Update #2](#130-lexy-update-2)
   
 ## 1.3.0: Lexy Update #2
 ### This update requires a new save
