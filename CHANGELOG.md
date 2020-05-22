@@ -14,7 +14,7 @@
 **Released at**: `22.05.2020`
 
 **Info**:
-Brought the list up to date with Lexy's 20.05.2020 and fixed broken links
+Brought the list up to date with Lexy's `20.05.2020` update and fixed broken links
 
 **Added**:
 - Sigils of Skyrim - Shields
@@ -22,6 +22,7 @@ Brought the list up to date with Lexy's 20.05.2020 and fixed broken links
 **Updated**:
 - Bethini v3.4
 - Riekling Reavers v1.1
+- Eeekie's Enhanced NPCS v1.7b
 - Lexy's LoTD SE OMEGA - Conflict Resolution - v1.37
 
 ## 1.2.0: The first Lexy update
