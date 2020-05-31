@@ -8,7 +8,19 @@
   - [1.1.1: Broken Link Update #3](#111-broken-link-update)
   - [1.2.0: The first Lexy update](#120-the-first-lexy-update)
   - [1.3.0: Lexy Update #2](#130-lexy-update-2)
-  
+
+## 1.4.0: Broken Link Update #4
+### This update reuqires a new save
+**Released at**: `31.05.2020`
+
+**Updated**
+- Legacy of the Dragonborn Patches v2.0 - This breaks saves
+
+**Removed**
+- HDT SMP (Cloaks have been crashing randomly)
+- Artesian Cloaks of Skyrim (See Above)
+- Artesian Cloaks of Skyrim - Patches for CCOR (See Above)
+
 ## 1.3.0: Lexy Update #2
 ### This update requires a new save
 **Released at**: `22.05.2020`
