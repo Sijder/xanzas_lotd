@@ -11,7 +11,7 @@
   - [1.4.0: Broken Link Update #4](#140-broken-link-update-4)
 
 ## 1.4.0: Broken Link Update #4
-### This update reuqires a new save
+### This update requires a new save
 **Released at**: `31.05.2020`
 
 **Updated**
