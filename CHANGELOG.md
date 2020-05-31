@@ -8,6 +8,7 @@
   - [1.1.1: Broken Link Update #3](#111-broken-link-update)
   - [1.2.0: The first Lexy update](#120-the-first-lexy-update)
   - [1.3.0: Lexy Update #2](#130-lexy-update-2)
+  - [1.4.0: Broken Link Update #4](#140-broken-link-update-4)
 
 ## 1.4.0: Broken Link Update #4
 ### This update reuqires a new save
