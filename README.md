@@ -165,19 +165,18 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Presets :
   - Load user settings
 
+#### All Geared up Derivative
+- Misc. Player :
+  - Enable Misc. Item Display : Disabled
+- NPC :
+  - Enable Weapons : Enabled
+  - Enable Misc. Item Display : Disabled
+
 #### Cathedral Weather
 - Settings → General :
   - Configuration Spell: Disabled
 - Settings → Weather :
   - Seasonal Perspective: Enabled
-
-#### Complete Alchemy
-
-- Cooking → Water :
-  - Craft Water - Disabled
-  - Get Water from Wells : Disabled
-- Help → Troubleshooting : 
-  - Ragdoll Paralysis - Disabled
 
 #### Complete Crafting
 - Recipe Display → Crafting Menu Filters :
@@ -228,14 +227,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - 1: Horses Whistle
   - 2: Horse Call
   - 3: Pray
-    
-#### ESF: Companions
-- Requirements → Requirements Before Your Trial :
-  - Player Level : 30
-- Requirements → Requirements Before Joining The Circle :
-  - Player Level : 40
-- Requirements → Requirements Before Kodlak's Request :
-  - Player Level : 60
 
 #### Expanded Towns
 - Settings → Fortification Wall :
@@ -267,16 +258,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Profiles → Settings Profiles :
   - Current Profile : Lexy LOTD Profile (Re-select this)
 
-#### GIST Soul Trap
-- Main → Notifications :
-  - Show message on soul lost : Disabled
-  - Show message on soul shrunk : Disabled
-  - Show message on soul displaced : Disabled
-  - Show message on soul trapped : Enabled
-- Main → Leveling : 
-  - Enable leveling system : Enabled
-  - Skill : Enchanting
-
 #### Immersive Armors
 - Armor Options → Distribution : 
   - Barbarian Hero Armor : Disabled
@@ -301,13 +282,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Assign Global Difficulty: Adept
 - Difficulty Adjustments → Creature Spawn Difficulty : 
   - Additional Spawns : Medium
-  
-#### Immersive HUD
-- Activation → Compass Activation :
-  - Key press toggles : Enabled
-- Options :
-  - Enable fast fade of magicka: Enabled
-  - Enable fast fade of stamina: Enabled
 
 #### Keep It Clean
 - Settings → Parameters :
@@ -345,10 +319,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Werewolf Loot: Disabled
 - Appearance : 
   - Werewolf Appearance: Alpha (Black with Red Eyes)
-
-#### moreHUD
-- Presets → Save setting with FISS :
-  - Load User Settings? : GO
   
 #### Not So Fast MG
 - Minimum Days Before Event : 
@@ -368,20 +338,11 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### OBIS - Patrols
 - Settings → Bandit Patrols :
   - Enable? : Enabled
-- Settings → Difficulty :
-  - How Tough? : Toughest
 
 #### Predator Vision
-- Predator Vision → Keys :
-  - Nightvision activation key : V
-  - Predator vision activation key : H  
 - Predator Vision → Settings :
   - Nightvision Color : 30%
   - Predator Vision Color Boost : 70%   
-- Predator Vision → Activation sounds :
-  - Nightvision: Sound 2   
-- Predator Vision → options : 
-  - Werewolves get Predator Vision as humans: Enabled
 
 #### Quick Light
 - Quick Light → Brightness :
@@ -391,25 +352,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Basic Needs → Start RND
 
 **Note : Exit the MCM to let it start up properly**
-
-#### iWant RND Widgets
-**Note : MAKE SURE REALISTIC NEEDS AND DISEASES HAD STARTED UP FIRST**
-- General:
-  - X position -  1235
-  - Y position -  700
-- Shape:
-  - Orientation - Horizontal
-- Hunger:
-  - Satiated - White
-  - Peckish - Green
-- Thirst:
-  - Not Thirsty - White
-  - Slightly Thirsty - Green
-- Sleep:
-  - Not Tired - White
-  - Slightly Tired  - Green
-- Disease:
-  - None - White
 
 #### Realistic Water Two
 - Mod Options → Blacksmith Forge Water :
@@ -429,11 +371,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Barter Menu : Disabled
   - Container Menu : Disabled
   - Crafting Menu : Disabled
-
-#### Skyrim’s Unique Treasures
-- SUT Configuration → Configuration Options : 
-  - Immersive Ownership : Enabled
-  - Lore friendly items only : Enabled
 
 #### Storm Lightning
 - Preset → Load Preset : 
@@ -547,12 +484,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### VioLens
 - Profile System → Menu Settings : 
   - Load : LEXY LOTD VIOLENS
-  
-#### Wildcat Combat
-- Wildcat → Injuries : 
-  - Disabled Injuries: Enabled   
-- Wildcat → Difficulty : 
-  - Allow Wildcat to Manage Difficulty: Enabled
   
 ## Creating your Character
 
