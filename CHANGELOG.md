@@ -9,6 +9,18 @@
   - [1.2.0: The first Lexy update](#120-the-first-lexy-update)
   - [1.3.0: Lexy Update #2](#130-lexy-update-2)
   - [1.4.0: Broken Link Update #4](#140-broken-link-update-4)
+  - [1.5.0: Lexy Update #3](#150-lexy-update-3)
+  
+## 1.5.0: Lexy Update #3
+### This update requres a new save
+**Released at**: `Unreleased`
+
+**Info**
+Updated to [Lexy's 01.06.2020 Update](https://lexyslotd.com/guide/changelog/)
+
+**Added**
+All Geared Up Derivative - Added again after realising crashes is from HDT cloaks not this
+MCM Automation - Automated some sections of the MCM
 
 ## 1.4.0: Broken Link Update #4
 ### This update requires a new save
