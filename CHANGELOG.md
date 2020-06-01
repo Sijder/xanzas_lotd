@@ -13,10 +13,11 @@
   
 ## 1.5.0: Lexy Update #3
 ### This update requres a new save
-**Released at**: `Unreleased`
+**Released at**: `02.06.2020`
 
 **Info**
 Updated to [Lexy's 01.06.2020 Update](https://lexyslotd.com/guide/changelog/)
+Updated Inferno - Fire Effects Redux v4.01
 
 **Added**
 All Geared Up Derivative - Added again after realising crashes is from HDT cloaks not this
