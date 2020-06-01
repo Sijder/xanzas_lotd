@@ -16,12 +16,15 @@
 **Released at**: `02.06.2020`
 
 **Info**
-Updated to [Lexy's 01.06.2020 Update](https://lexyslotd.com/guide/changelog/)
-Updated Inferno - Fire Effects Redux v4.01
+- Updated to [Lexy's 01.06.2020 Update](https://lexyslotd.com/guide/changelog/)
+
 
 **Added**
 All Geared Up Derivative - Added again after realising crashes is from HDT cloaks not this
 MCM Automation - Automated some sections of the MCM
+
+**Updated**
+- Inferno - Fire Effects Redux v4.01
 
 ## 1.4.0: Broken Link Update #4
 ### This update requires a new save
