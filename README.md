@@ -17,7 +17,6 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
-    - [Setting up NVIDIA Profile Inspector (NVIDIA GPUs Only)](#setting-up-nvidia-profile-inspector-nvidia-gpus-only)
     - [Getting an ENB](#getting-an-enb)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
@@ -127,12 +126,6 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
-
-#### Setting up NVIDIA Profile Inspector (NVIDIA GPUs Only)
-
-Navigate to `MO2/tools/NVIDIA Profile Inspector`. Load up nvidiaProfileInspector.exe and use the search bar and navigate to The Elder Scrolls V: Skyrim Special Edition. In the new window, in the toolbar at the top is an icon of a box with a green arrow pointing downwards. Click on this button, then "Import Profiles" in the drop-down that appears.
-
-In the window that appears, navigate to and select Skyrim SE Nvidia Inspector Profile.nip. The profile is now installed and you can close the program.
 
 #### Getting an ENB
 
