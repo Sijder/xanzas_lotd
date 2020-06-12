@@ -36,7 +36,7 @@
 
 ![xanzas-lotd-banner](cover/Cover.png)
 
-This is a fork of Lexy's Legacy of the Dragonborn list with a few choice additions such as Wintersun and Skyrim Reputation. Under no circumstances should you be bothering her or her team with issues for this list.
+This is a fork of Lexy's Legacy of the Dragonborn list with a few choice additions. Under no circumstances should you be bothering her or her team with issues for this list.
 
 ## Installation
 
