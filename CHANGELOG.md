@@ -1,16 +1,20 @@
 # Changelog
 
-- [Changelog](#changelog)
-  - [1.0.0: Initial Release](#100-initial-release)
-  - [1.0.1: Broken Link Update](#101-broken-link-update)
-  - [1.0.2: Broken Link Update #2](#102-broken-link-update)
-  - [1.1.0: Goodbye AllGUD & Relic Notifications](#110-goodbye-allgud--relic-notifications)
-  - [1.1.1: Broken Link Update #3](#111-broken-link-update)
-  - [1.2.0: The first Lexy update](#120-the-first-lexy-update)
-  - [1.3.0: Lexy Update #2](#130-lexy-update-2)
-  - [1.4.0: Broken Link Update #4](#140-broken-link-update-4)
-  - [1.5.0: Lexy Update #3](#150-lexy-update-3)
-  
+## 1.6.0: Lexy Update #4
+
+### This update requires a new save
+
+### Released on `12.06.2020`
+
+### Info
+
+- Updated to Lexy's latest guide version
+
+### Removed
+
+- Skyrim Reputation (kinda buggy)
+- Simply Knock (not compatible with Sithis worship from Wintersun) 
+
 ## 1.5.0: Lexy Update #3
 ### This update requres a new save
 **Released at**: `02.06.2020`
