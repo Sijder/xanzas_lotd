@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.6.1: Lexy Update #5
+
+### Released on `14.06.2020`
+
+### Info
+
+- Updated to [Lexy's `14.06.2020` Update](https://lexylotd.com/guide/changelog/)
+
+### Removed
+
+- Subliminal Traps SSE (Not a fan of invisible stuff)
+
 ## 1.6.0: Lexy Update #4
 
 ### This update requires a new save
